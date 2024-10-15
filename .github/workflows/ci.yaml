@@ -27,4 +27,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: false
-          tags: wilsondaniels/samples-I-ci-go:latest
+          tags: wilsondaniels/samples-i-ci-go:latest
